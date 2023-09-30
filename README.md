@@ -20,9 +20,7 @@
   <img align="center" alt="Du-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="Du-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Du-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  
   <img align="center" alt="Du-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Du-icon"  height="120" width="120" src="https://media.discordapp.net/attachments/1073085015329619989/1156375600517349496/eububle.jpg?ex=6514be33&is=65136cb3&hm=b6b6d80bf3c36e2e6ad3a4458b9720eddba98ffa3fdbe003e64d9d54452bb1f0&=">
 
           
 </div>
